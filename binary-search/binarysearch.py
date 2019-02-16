@@ -1,5 +1,7 @@
 # binary search
 # with an ordered list
+# usage:    python3 bs.py numberToSearchFor
+# example:  python3 bs.py 301
 
 import math
 import sys
