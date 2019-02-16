@@ -1,4 +1,5 @@
 # binary search
+# with an ordered list
 
 import math
 import sys
